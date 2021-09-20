@@ -3,3 +3,17 @@
     border: 0;
     box-sizing: border-box;
 }
+p{
+    font-size: 50px;
+}
+::-webkit-scrollbar{
+    width:15px;
+}
+::-webkit-scrollbar-track{
+    background:black;
+}
+::-webkit-scrollbar-thumb{
+    background:brown;
+    border-radius:10px;
+    height:40%;
+}
